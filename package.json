@@ -1,0 +1,24 @@
+{
+  "name": "scrollrevealpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "url": "https://www.youtube.com/watch?v=ePgnR4gHIi4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntociAlinGeorgian/ScrollRevealPage.git"
+  },
+  "author": "Alin Georgian Antoci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntociAlinGeorgian/ScrollRevealPage/issues"
+  },
+  "homepage": "https://github.com/AntociAlinGeorgian/ScrollRevealPage#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
